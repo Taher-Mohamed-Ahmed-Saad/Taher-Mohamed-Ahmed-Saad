@@ -6,19 +6,20 @@ strengthening my skills in front-end libraries and enjoying problem-solving</h3>
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="www.linkedin.com/in/taher-mohamed-a0802b123">
+<a href="https://www.linkedin.com/in/taher-mohamed-a0802b123">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a> 
 <a href="mailto:15126@stemegypt.edu.eg">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 </p>
+<br>
 
 
 
-<div>
+
 <h3 align="left"><b>Languages and Tools:</b></h3>
-</div>
+
 <div align="center">
 
  
