@@ -22,6 +22,8 @@ strengthening my skills in front-end libraries and enjoying problem-solving</h3>
 </a>
 </p>
 <br>
+<hr>
+
 
 
 
