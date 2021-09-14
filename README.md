@@ -3,6 +3,8 @@
 <h3 align="center"> I'm currently working on 
 strengthening my skills in front-end libraries and enjoying problem-solving</h3>
 
+<hr>
+
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/taher-mohamed-a0802b123">
@@ -37,10 +39,13 @@ strengthening my skills in front-end libraries and enjoying problem-solving</h3>
   </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
+<hr>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taher-Mohamed-Ahmed&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-Mohamed-Ahmed&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
 
 <p align="center"> 
   Profile Views <br>
