@@ -39,7 +39,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/945/441/png-clipart-web-development-cascading-style-sheets-html-logo-css3-storm-blue-angle.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/bootstrap4/" target="_blank"> <img src="https://gfx4arab.com/wp-content/uploads//2020/06/bootstrap-4.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text.png" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://www.pngkit.com/png/full/377-3771972_sass.png" alt="git" width="40" height="40"/> </a> 
 
 <h1>
 </h1>
