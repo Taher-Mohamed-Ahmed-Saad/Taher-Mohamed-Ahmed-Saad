@@ -23,7 +23,7 @@
 <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3">
   <img align="center" width="30px" src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" draggable="false" />
 </a>
-</p><br>
+</p>
 <h1>
 </h1>
 
