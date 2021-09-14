@@ -1,6 +1,5 @@
 <h1 align="center" > Hi 👋, I'm Taher </h1>
 <h3 align="center">I'm a third-year computer engineering undergraduate at Cairo university</h3>
-<h3 align="center">I’m interested in problem-solving and front-end development.</h3>
 <h3 align="center"> I'm currently working on 
 strengthening my skills in front-end libraries and enjoying problem-solving</h3>
 
@@ -12,9 +11,14 @@ strengthening my skills in front-end libraries and enjoying problem-solving</h3>
 <a href="mailto:15126@stemegypt.edu.eg">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
+<a href="https://www.hackerrank.com/h15126">
+  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+</a>
+<a href="https://codeforces.com/profile/Unknown_Hacker">
+  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+</a>
 </p>
 <br>
-
 
 
 
