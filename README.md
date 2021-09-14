@@ -4,7 +4,6 @@
 strengthening my skills in front-end libraries and enjoying problem-solving</p>
 
 <h3 align="left"><b>Connect with me:</b></h3>
-
 <p align="left">
 <a href="www.linkedin.com/in/taher-mohamed-a0802b123">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
