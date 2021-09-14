@@ -12,13 +12,17 @@ strengthening my skills in front-end libraries and enjoying problem-solving</h3>
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/h15126">
-  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" draggable="false" />
 </a>
 <a href="https://codeforces.com/profile/Unknown_Hacker">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
+<a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3">
+  <img align="left" width="30px" src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" draggable="false" />
+</a>
 </p>
 <br>
+
 
 
 
