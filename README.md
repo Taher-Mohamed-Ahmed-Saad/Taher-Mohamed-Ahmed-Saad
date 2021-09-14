@@ -9,19 +9,19 @@
 <h3 align="center"><b>Connect with me</b></h3> <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/taher-mohamed-a0802b123">
-  <img align="center" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+  <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a> 
 <a href="mailto:15126@stemegypt.edu.eg">
-  <img align="center" width="50px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/h15126">
-  <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" draggable="false" />
+  <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" draggable="false" />
 </a>
 <a href="https://codeforces.com/profile/Unknown_Hacker">
-  <img align="center" width="50px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/s1600/codeforces.png" draggable="false" />
+  <img align="center" width="30px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/s1600/codeforces.png" draggable="false" />
 </a>
 <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3">
-  <img align="center" width="50px" src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" draggable="false" />
+  <img align="center" width="30px" src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png" draggable="false" />
 </a>
 </p><br>
 <h1>
