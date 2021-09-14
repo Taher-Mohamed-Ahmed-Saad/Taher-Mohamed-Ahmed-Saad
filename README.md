@@ -1,7 +1,8 @@
 <h1 align="center" > Hi 👋, I'm Taher </h1>
-<p align="left">I'm a third-year computer engineering undergraduate at Cairo university</p>
-<p align="left">I’m interested in problem-solving and front-end development and I'm currently working on 
-strengthening my skills in front-end libraries and enjoying problem-solving</p>
+<h3 align="left">I'm a third-year computer engineering undergraduate at Cairo university</h3>
+<h3 align="left">I’m interested in problem-solving and front-end development.</h3>
+<h3> I'm currently working on 
+strengthening my skills in front-end libraries and enjoying problem-solving</h3>
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
