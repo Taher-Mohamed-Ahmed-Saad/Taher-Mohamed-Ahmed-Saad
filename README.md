@@ -6,8 +6,8 @@
 </h1>
 
 
-<h3 align="left"><b>Connect with me:</b></h3>
-<p align="left">
+<h3 align="center"><b>Connect with me:</b></h3> <br>
+<p align="center">
 <a href="https://www.linkedin.com/in/taher-mohamed-a0802b123">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a> 
