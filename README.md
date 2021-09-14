@@ -15,8 +15,9 @@ strengthening my skills in front-end libraries and enjoying problem-solving</p>
 
 
 
-
+<div>
 <h3 align="left"><b>Languages and Tools:</b></h3>
+</div>
 <div align="center">
 
  
