@@ -44,13 +44,13 @@
 <h1>
 </h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taher-Mohamed-Ahmed&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-Mohamed-Ahmed&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taher-Mohamed-Ahmed-Saad&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-Mohamed-Ahmed-Saad&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
 
 <p align="center"> 
   Profile Views <br>
-  <img src="https://profile-counter.glitch.me/Taher-Mohamed-Ahmed/count.svg" />
+  <img src="https://profile-counter.glitch.me/Taher-Mohamed-Ahmed-Saad/count.svg" />
 </p>
